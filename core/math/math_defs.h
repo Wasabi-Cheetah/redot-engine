@@ -3,12 +3,9 @@
 /**************************************************************************/
 /*                         This file is part of:                          */
 /*                             REDOT ENGINE                               */
-/*                        https://redotengine.org                         */
+/*                      https://www.redotengine.org/                      */
 /**************************************************************************/
-/* Copyright (c) 2024-present Redot Engine contributors                   */
-/*                                          (see REDOT_AUTHORS.md)        */
-/* Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md). */
-/* Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.                  */
+/*            Copyright © 2024-present by the Redot community.            */
 /*                                                                        */
 /* Permission is hereby granted, free of charge, to any person obtaining  */
 /* a copy of this software and associated documentation files (the        */
@@ -29,6 +26,9 @@
 /* TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE      */
 /* SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                 */
 /**************************************************************************/
+/*                     Work done by Octetdev2 and BSChad.                 */
+/*                       Merging done by Wasabi_Cheetah.                  */
+/**************************************************************************/
 
 #ifndef MATH_DEFS_H
 #define MATH_DEFS_H
@@ -41,6 +41,7 @@
 
 #define Math_SQRT12 0.7071067811865475244008443621048490
 #define Math_SQRT2 1.4142135623730950488016887242
+#define Math_SQRT3 1.7320508075688772935274463415059
 #define Math_LN2 0.6931471805599453094172321215
 #define Math_TAU 6.2831853071795864769252867666
 #define Math_PI 3.1415926535897932384626433833
